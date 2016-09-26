@@ -1,4 +1,4 @@
-# Turbidity sensor prototype
+# Depth sensor prototype
 
 ## Background
 
